@@ -6,12 +6,7 @@
 _IZA Discussion Paper No. 16565_  
 _Joint with Lillian Bates and Oliver Hall_  
 
-**[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**  
-
-**[Big Sisters](big-sisters-2023-06-16.pdf)**  
-_CGD Working Paper 559_  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
-Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>  
+**[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
 
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
 _Accepted based on Stage 1 Pre-Results Review at Journal of Development Economics_    
@@ -31,7 +26,12 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 
-**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**  
+**[Big Sisters](big-sisters-2025-01-31-jhrformat-B.pdf)**  
+_Journal of Human Resources, accepted for publication_    
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
+Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>
+
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**   
 _Journal of Development Economics, 171: 103337_  
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
 [Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UV8BOW)  
