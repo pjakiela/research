@@ -29,12 +29,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 **[Big Sisters](big-sisters-2025-01-31-jhrformat-B.pdf)**  
 _Journal of Human Resources, accepted for publication_    
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
-Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>
-
-**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**   
-_Journal of Development Economics, 171: 103337_  
-_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
-[Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UV8BOW)  
+Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>  
 
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
 _Review of Economics and Statistics, conditionally accepted_  
@@ -43,7 +38,12 @@ _Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_
 
 **[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://academic.oup.com/wbro/advance-article-abstract/doi/10.1093/wbro/lkae009/7690325?utm_source=advanceaccess&utm_campaign=wbro&utm_medium=email)**  
 _World Bank Research Observer, forthcoming_  
-_Joint with David K. Evans_  
+_Joint with David K. Evans_   
+
+**[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**   
+_Journal of Development Economics, 2024, 171: 103337_  
+_Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_  
+[Replication Files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UV8BOW)  
 
 **[The Impacts of Childcare Interventions on Children’s Outcomes in Low- and Middle-Income Countries: A Systematic Review](https://www.aeaweb.org/articles?id=10.1257/pandp.20241015)**  
 _AEA Papers Proceedings, 2024, 114: 463-466_  
