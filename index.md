@@ -2,6 +2,9 @@
 
 ## Working Papers  
 
+**[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](http://arxiv.org/abs/2504.06507)**   
+_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, Shyam Raman_  
+
 **[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](https://docs.iza.org/dp16565.pdf)**  
 _IZA Discussion Paper No. 16565_  
 _Joint with Lillian Bates and Oliver Hall_  
