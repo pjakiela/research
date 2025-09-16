@@ -5,7 +5,7 @@
 **[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](http://arxiv.org/abs/2504.06507)**   
 _Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, Shyam Raman_  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R1)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R1.pdf)**  
 _Joint with Lillian Bates and Oliver Hall_  
 
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
