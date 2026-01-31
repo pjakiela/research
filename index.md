@@ -2,8 +2,12 @@
 
 ## Working Papers  
 
-**[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](http://arxiv.org/abs/2504.06507)**   
-_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, Shyam Raman_  
+**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](AGJK_Expectations_20260131b.pdf)**   
+_Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
+[Survey instruments](https://github.com/pjakiela/IPA-cash-grants-surveys)  
+
+**[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](Software_JSDSE_R1.pdf)**   
+_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
 
 **[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R1.pdf)**  
 _Joint with Lillian Bates and Oliver Hall_  
@@ -29,17 +33,25 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 ## Publications 
 
 **[Big Sisters](big-sisters-2025-01-31-jhrformat-B.pdf)**  
-_Journal of Human Resources, accepted for publication_    
+_Journal of Human Resources, forthcoming_    
 _Joint with Owen Ozier, Lia C.H. Fernald, and Heather A. Knauer_   
 Media Coverage: <a href="https://www.npr.org/2020/12/16/947027225/what-impact-can-having-an-older-sister-have-on-a-childs-development">NPR Morning Edition</a>, <a href="https://www.npr.org/sections/goatsandsoda/2020/12/17/947566797/the-secret-to-success-having-a-big-sister">NPR Goats and Soda</a>, <a href="https://www.today.com/health/birth-order-are-big-sisters-key-success-t204701">NBC's TODAY</a>  
 
 **[A Firm of One's Own:  Experimental Evidence On Credit Constraints and Occupational Choice](BHIJO-REStat-2024-05-24.pdf)**   
-_Review of Economics and Statistics, conditionally accepted_  
+_Review of Economics and Statistics, forthcoming_  
 _Joint with Andrew Brudevold, Maddalena Honorati, Gerald Ipapa, and Owen Ozier_  
 [Trial Registry Information](https://www.socialscienceregistry.org/trials/459)   
 
+**[The role of fathers in early childhood: Five insights from around the world](https://ijbpe.com/journals/volume-13/97-vol-13-issue-1/919-the-role-of-fathers-in-early-childhood-five-insights-from-around-the-world)**  
+_International Journal of Birth and Parent Education, 2025, 13(1)_  
+_Joint with Dave Evans_  
+
+**[Experimental development economics: current scope and future directions](https://www.e-elgar.com/shop/usd/handbook-of-experimental-development-economics-9781800885363.html)**  
+_Handbook of Experimental Development Economics, 2025_  
+_Joint with Utteeyo Dasgupta, Pushkar Maitra, Owen Ozier, Danila Serra, and Angelino Viceisza_  
+
 **[The Role of Fathers in Promoting Early Childhood Development in Low- and Middle-Income Countries: A Review of the Evidence](https://academic.oup.com/wbro/advance-article-abstract/doi/10.1093/wbro/lkae009/7690325?utm_source=advanceaccess&utm_campaign=wbro&utm_medium=email)**  
-_World Bank Research Observer, forthcoming_  
+_World Bank Research Observer, 2025, 40(2): 211-228_  
 _Joint with David K. Evans_   
 
 **[Preprimary Education and Early Childhood Development: Evidence from Government Schools in Rural Kenya](https://www.sciencedirect.com/science/article/pii/S0304387824000865?dgcid=author)**   
