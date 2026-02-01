@@ -2,7 +2,7 @@
 
 ## Working Papers  
 
-**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](AGJK_Expectations_20260131b.pdf)**   
+**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](AGJK_Expectations_20260201.pdf)**   
 _Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
 [Survey instruments](https://github.com/pjakiela/IPA-cash-grants-surveys)  
 
@@ -91,7 +91,7 @@ _Joint with Lia C.H. Fernald, Heather A. Knauer, and Owen Ozier_
 _Developmental Science, 2019, 22(5): e12875_  
 _Joint with Lia Fernald, Patricia Kariger, Heather Knauer, and Owen Ozier_  
 
-**[The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](http://www.pamjakiela.com/JakielaOzier-risk-final-with-appendix.pdf)**   
+**[The Impact of Violence on Individual Risk Preferences:  Evidence from a Natural Experiment](https://direct.mit.edu/rest/article/101/3/547/58515/The-Impact-of-Violence-on-Individual-Risk)**   
 _Review of Economics and Statistics, 2019, 101(3): 547-549_  
 _Joint with Owen Ozier_  
 Media Coverage: <a
@@ -106,7 +106,7 @@ _Journal of Public Economics, 2017, 155: 1-10_
 _Joint with Raymond Fisman and Shachar Kariv_  
 [Online Appendix](http://pamjakiela.com/ALPappendix-2014-08-28.pdf)  
 
-**[Does Africa Need a Rotten Kin Theorem?  Experimental Evidence from Village Economies](http://pamjakiela.com/JakielaOzier-VillageEconomies-2015-06-04.pdf)**  
+**[Does Africa Need a Rotten Kin Theorem?  Experimental Evidence from Village Economies](https://academic.oup.com/restud/article-abstract/83/1/231/2461232)**  
 _Review of Economic Studies, 2016, 83(1): 231-268_  
 _Joint with Owen Ozier_  
 [Online Appendix](http://pamjakiela.com/JakielaOzier-online-appendix-2015-06-03.pdf)  
@@ -133,7 +133,7 @@ _Experimental Economics, 2015, 18(3): 385-407_
 _Joint with Edward Miguel and Vera te Velde_  
 [Online Appendix](http://pamjakiela.com/jakielamigueltevelde_onlineappendix.pdf)   
 
-**[How Did Distributional Preferences Change During the Great Recession?](http://pamjakiela.com/fjk-recession-2015-06-02.pdf)**    
+**[How Did Distributional Preferences Change During the Great Recession?](https://www.sciencedirect.com/science/article/pii/S0047272715001152?casa_token=HF5pnQo_Z6AAAAAA:a7ZsormPotU4dDs-MxRDrvE9L-T-86nFYBuMRLYoXivzmVqnmr3RmL5_V7xqMaWGgqJ0MuYhgA)**    
 _Journal of Public Economics, 2015, 128: 84-95_  
 _Joint with Raymond Fisman and Shachar Kariv_  
 [Online Appendix](http://pamjakiela.com/fjk-fullonlineappendix.pdf)  
@@ -148,10 +148,10 @@ Cambridge University Press, edited by Sebastian Galiani and Itai Sened, 2014
 _Experimental Economics, 2013, 16(2): 208-221_  
 [Experimental Instructions](http://pamjakiela.com/jakielaEESI_instructions.pdf)
 
-**[Social Preferences and Fairness Norms as Informal Institutions:  Experimental Evidence](http://pamjakiela.com/jakielaPandPfinal.pdf)**  
+**[Social Preferences and Fairness Norms as Informal Institutions:  Experimental Evidence](https://www.aeaweb.org/articles?id=10.1257/aer.101.3.509)**  
 _American Economic Review:  Papers and Proceedings, 2011, 101(3):  509-513_  
 
-**[Microfinance Games](http://pamjakiela.com/mfgames_final.pdf)**  
+**[Microfinance Games](https://www.aeaweb.org/articles?id=10.1257/app.2.3.60)**  
 _American Economic Journal:  Applied Economics, 2010, 2(3):  60-95_  
 _Joint with Dean Karlan, Xavier Giné, and Jonathan Morduch_  
 
