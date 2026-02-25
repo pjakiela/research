@@ -2,7 +2,8 @@
 
 ## Working Papers  
 
-**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](AGJK_Expectations_20260201.pdf)**   
+**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](https://www.nber.org/papers/w34857)**   
+_NBER Working Paper No. 34857_  
 _Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
 [Survey instruments](https://github.com/pjakiela/IPA-cash-grants-surveys)  
 
