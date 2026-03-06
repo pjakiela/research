@@ -10,7 +10,7 @@ _Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_
 **[The Software Behind the Stats: A Student Exploration of Software Trends Across Disciplines](Software_JSDSE_R1.pdf)**   
 _Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R1.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R2.pdf)**  
 _Joint with Lillian Bates and Oliver Hall_  
 
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
