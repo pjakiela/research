@@ -2,14 +2,6 @@
 
 ## Working Papers  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/BatesHallJakiela_Maternity_Leave_R3.pdf)**  
-_Review of Economics of the Household, forthcoming_  
-_Joint with Lillian Bates and Oliver Hall_  
-
-**[The Software Behind the Stats: A Student Exploration of Software Trends in Economics, Political Science, and Statistics](https://owenozier.github.io/publication/2026-08-31-software-stats)**   
-_Journal of Statistics and Data Science Education, forthcoming_  
-_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
-
 **[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R2.pdf)**  
 _Joint with Lillian Bates and Oliver Hall_  
 
@@ -32,6 +24,14 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 <br>
 
 ## Publications 
+
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/BatesHallJakiela_Maternity_Leave_R3.pdf)**  
+_Review of Economics of the Household, forthcoming_  
+_Joint with Lillian Bates and Oliver Hall_  
+
+**[The Software Behind the Stats: A Student Exploration of Software Trends in Economics, Political Science, and Statistics](https://owenozier.github.io/publication/2026-08-31-software-stats)**   
+_Journal of Statistics and Data Science Education, forthcoming_  
+_Joint with Elizabeth Upton, Xizhen Cai, Owen Ozier, and Shyam Raman_  
 
 **[Big Sisters](big-sisters-2025-01-31-jhrformat-B.pdf)**  
 _Journal of Human Resources, forthcoming_    
