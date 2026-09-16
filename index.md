@@ -2,7 +2,7 @@
 
 ## Working Papers  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](BatesHallJakiela_Maternity_Leave_R2.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](Maternity_Leave_R3.pdf)**  
 _Joint with Lillian Bates and Oliver Hall_  
 
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
