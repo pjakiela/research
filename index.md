@@ -25,7 +25,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/Maternity_Leave_R3.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](Maternity_Leave_R3.pdf)**  
 _Review of Economics of the Household, forthcoming_  
 _Joint with Lillian Bates and Oliver Hall_  
 
