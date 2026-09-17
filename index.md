@@ -2,6 +2,9 @@
 
 ## Working Papers  
 
+**[Great Expectations: Responses to Current and Future Transfers for Low-Income Individuals](https://www.nber.org/papers/w34857)**   
+_Joint with Achyuta Adhvaryu, Jean-Francois Gauthier, and Dean Karlan_  
+
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
 
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
