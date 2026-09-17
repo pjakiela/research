@@ -2,9 +2,6 @@
 
 ## Working Papers  
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](Maternity_Leave_R3.pdf)**  
-_Joint with Lillian Bates and Oliver Hall_  
-
 **[Simple Diagnostics for Two-Way Fixed Effects](https://arxiv.org/abs/2103.13229)**    
 
 **[Evaluating the Effects of an Early Literacy Intervention](EMERGE-registered-report-accepted.pdf)**  
@@ -25,7 +22,7 @@ _Joint with Vivian Hoffmann, Michael Kremer, Ryan Sheely, and Matthew Goodkin-Go
 
 ## Publications 
 
-**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/BatesHallJakiela_Maternity_Leave_R3.pdf)**  
+**[Understanding the Impacts of Paid Maternity Leave on Women's Labor Market Outcomes](research/Maternity_Leave_R3.pdf)**  
 _Review of Economics of the Household, forthcoming_  
 _Joint with Lillian Bates and Oliver Hall_  
 
